@@ -9,3 +9,6 @@
 
 ## Add a title after git add and commit
 >	See what will happen
+
+## Then test git diff --cached
+>	See what will happen

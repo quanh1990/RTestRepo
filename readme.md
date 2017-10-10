@@ -6,3 +6,6 @@
 *	write like this
 *	Done!
 >	See? It's really easy! Go and enjoy it now !
+
+## Add a title after git add and commit
+>	See what will happen

@@ -15,3 +15,5 @@
 
 ## After git push, change the readme file again
 >	test the git diff function
+
+## Change the readme file again, and git pull under testNew, see if it will update automately

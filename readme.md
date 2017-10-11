@@ -12,3 +12,6 @@
 
 ## Then test git diff --cached
 >	See what will happen
+
+## After git push, change the readme file again
+>	test the git diff function
